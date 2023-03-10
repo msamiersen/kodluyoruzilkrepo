@@ -20,3 +20,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 License
 MIT
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+.
+.
