@@ -5,7 +5,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 ## Installation
 https://github.com/msamiersen/kodluyoruzilkrepo.git
 
-kodluyoruzilkrepo\github.png
+
+![github](https://user-images.githubusercontent.com/127094574/224340638-56b660ea-0cf8-4808-a902-59994ed41d41.png)
 
 
 ## Usage
