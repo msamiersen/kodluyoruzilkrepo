@@ -5,7 +5,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 ##Installation
 https://github.com/msamiersen/kodluyoruzilkrepo.git
 
-C:\Users\intms\Desktop\github.png
+kodluyoruzilkrepo\github.png
 
 
 Usage
